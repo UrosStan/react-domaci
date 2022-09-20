@@ -7,7 +7,7 @@ function Landing() {
   return (
     <div className="landing-container">
       <h1>START LIVING HEALTHY</h1>
-      <p>What are you waiting for?</p>
+      <p>What are you waiting for ?</p>
       <div className="landing-btns">
         <Button
           className="btns"
